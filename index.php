@@ -18,6 +18,7 @@
             <h1 class="page-header">
                 versions.
                 <small>Your words, your voice</small>
+                <p>new Git addition</p>
             </h1>
                 <?php
 
